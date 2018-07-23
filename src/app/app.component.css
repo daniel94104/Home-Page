@@ -1,5 +1,5 @@
 .header-bg{
-    background-color: #BB86fc;
+    background-color: #0288D1;
 }
 
 .text-block{
@@ -10,6 +10,10 @@
     border-bottom: 1px solid #ddd;
 }
 
-.jumbotron {
-    background-color: #BB86fc;
-  }
+.header{
+    padding: 50px;
+}
+
+.header-text{
+    color: white;
+}
