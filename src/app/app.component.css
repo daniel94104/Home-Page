@@ -9,3 +9,7 @@
 .divider{
     border-bottom: 1px solid #ddd;
 }
+
+.jumbotron {
+    background-color: #BB86fc;
+  }
